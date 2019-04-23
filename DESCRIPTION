@@ -1,7 +1,7 @@
 Package: shinyjs.ui.in.package
 Type: Package
 Title: Example of UI Creation in Package
-Version: 0.0.3
+Version: 0.0.4
 Author: ambevill
 Maintainer: ambevill <ambevill@github.com>
 Description: This is part of a MWE for https://github.com/daattali/shinyjs/issues/182
