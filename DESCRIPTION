@@ -3,7 +3,7 @@ Type: Package
 Title: Example of UI Creation in Package
 Version: 0.0.1
 Author: ambevill
-Maintainer: ambevill <github.com/ambevill>
+Maintainer: ambevill <ambevill@github.com>
 Description: This is part of a MWE for https://github.com/daattali/shinyjs/issues/182
 License: Pending
 Encoding: UTF-8
