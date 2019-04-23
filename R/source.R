@@ -1,3 +1,4 @@
+#' @export
 ui_function = function()
 {
   shiny::tagList(
@@ -6,8 +7,10 @@ ui_function = function()
   )
 }
 
+#' @export
 ui_static = ui_function()
 
+#' @export
 server = shiny::shinyServer(function(input, output, session) {
   
   shiny::observe({ shinyjs::disable('only_button') })
