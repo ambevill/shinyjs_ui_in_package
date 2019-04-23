@@ -1,0 +1,13 @@
+Package: shinyjs_ui_in_package
+Type: Package
+Title: Example of UI Creation in Package
+Version: 0.0.1
+Author: ambevill
+Maintainer: github.com/ambevill
+Description: This is part of a MWE for https://github.com/daattali/shinyjs/issues/182
+License: Pending
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.1)
+Imports: shiny, shinyjs
+RoxygenNote: 6.1.1
